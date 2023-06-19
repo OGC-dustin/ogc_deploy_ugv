@@ -1,0 +1,12 @@
+[submodule "hardware/ogc_hw_ugv"]
+	path = hardware/ogc_hw_ugv
+	url = https://github.com/OGC-dustin/ogc_hw_ugv.git
+[submodule "firmware/hal/ogc_hal_ugv"]
+	path = firmware/hal/ogc_hal_ugv
+	url = https://github.com/OGC-dustin/ogc_hal_ugv.git
+[submodule "software/libraries/ogc_lib_os_nrtps"]
+	path = software/libraries/ogc_lib_os_nrtps
+	url = https://github.com/OGC-dustin/ogc_lib_os_nrtps.git
+[submodule "software/applications/ogc_app_demo_blink"]
+	path = software/applications/ogc_app_demo_blink
+	url = https://github.com/OGC-dustin/ogc_app_demo_blink.git
