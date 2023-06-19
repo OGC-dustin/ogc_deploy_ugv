@@ -15,7 +15,7 @@ OPT = 0
 ARDUINO_LIB = /usr/share/arduino/lib
 
 SRC	= \
-software/application/ogc_demo_blink/ogc_demo_blink.c \
+software/application/ogc_app_demo_blink/ogc_app_demo_blink.c \
 software/libraries/ogc_os_nrtps/main.c \
 software/libraries/ogc_os_nrtps/ogc_os_nrtps.c \
 firmware/hal/ogc_hal_ugv/ogc_hal_ugv.c
